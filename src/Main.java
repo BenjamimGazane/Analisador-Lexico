@@ -1,12 +1,6 @@
 
 import visao.Tela;
 
-/*
- *  Autor:    Claiton Lopes Matavele 
- *  LinkedIn: https://www.linkedin.com/in/claiton-lopes-b47095160} 
- *  GitHub:   https://github.com/claythonlophess} 
- */
-
 /**
  *
  * @author Administrator
